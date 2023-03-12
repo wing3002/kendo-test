@@ -83,7 +83,7 @@
 					visible: false
 				},
 				seriesDefaults: {
-					type: "column"
+					type: "column" 
 				},
 				series: [{
 					name: "값",
